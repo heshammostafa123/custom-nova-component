@@ -1,5 +1,6 @@
 {
     "name": "seoegypt/nova-custom-components",
+    "type": "laravel-library",
     "description": "A Laravel Nova resource tool.",
     "keywords": [
         "laravel",
